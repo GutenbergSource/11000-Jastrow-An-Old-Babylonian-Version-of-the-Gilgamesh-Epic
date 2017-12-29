@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+         xmlns:dc="http://purl.org/dc/elements/1.1/">
+   <rdf:Description>
+      <dc:title>An Old Babylonian Version of the Gilgamesh Epic</dc:title>
+      <dc:creator>Morris Jastrow Jr. (1861–1921)</dc:creator>
+      <dc:creator>Albert Tobias Clay (1866–1925)</dc:creator>
+      <dc:publisher>Project Gutenberg, Urbana, Illinois, USA., 2006-07-04</dc:publisher>
+      <dc:date>2006-07-04</dc:date>
+      <dc:rights>Public Domain.</dc:rights>
+      <dc:identifier>pg:11000</dc:identifier>
+   </rdf:Description>
+</rdf:RDF>
